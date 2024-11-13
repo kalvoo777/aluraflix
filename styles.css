@@ -1,0 +1,30 @@
+body {
+    color: rgb(153, 70, 153);
+    background: black;
+    margin: 0px;
+    font-family: "Playfair Display", serif;
+    margin-bottom: 100px;
+}
+
+header {
+    border-bottom: solid 2px rgb(145, 17, 156);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(145, 17, 156)
+}
+
+.chamada {
+    background: rgb(0, 0, 0);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto      [
+    margin-right: 5%;
+]
+
+h1 {
+    font-size: 40px;
+}
