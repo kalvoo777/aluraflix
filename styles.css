@@ -1,20 +1,20 @@
 body {
-    color: rgb(153, 70, 153);
-    background: black;
+    color: rgb(87, 164, 236);
+    background: rgb(255, 255, 255);
     margin: 0px;
     font-family: "Playfair Display", serif;
     margin-bottom: 100px;
 }
 
 header {
-    border-bottom: solid 2px rgb(145, 17, 156);
+    border-bottom: solid 2px rgb(87, 164, 236);
     padding: 20px;
     font-size: 32px;
-    color: rgb(145, 17, 156)
+    color: rgb(87, 164, 236)
 }
 
 .chamada {
-    background: rgb(0, 0, 0);
+    background: rgb(255, 255, 255);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -52,9 +52,9 @@ p {
 
 .categoria-videos img:hover {
     opacity: 1,0;
-    border: 3px solid purple;
+    border: 3px solid rgb(87, 164, 236);
 }
 
 .categoria h2 {
-    color: rgb(85, 13, 168);
+    color: rgb(87, 164, 236);
 }
